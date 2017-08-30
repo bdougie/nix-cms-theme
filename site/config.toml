@@ -1,4 +1,4 @@
-baseurl = "."
+baseurl = "/"
 languageCode = "en-us"
 title = "Nix Theme"
 theme = "hugo-theme-nix"
